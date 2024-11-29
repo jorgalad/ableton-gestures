@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "ableton-python"
+version = "0.1.0"
+description = "Recognise hand gestures and do stuff"
+authors = ["Jorgalad"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.15"
+mediapipe = "^0.10.18"
+opencv-python = "^4.10.0.84"
+python-osc = "^1.9.0"
+pygame = "^2.6.1"
+linktopy = "^0.2.5"
+rtmidi = "^2.5.0"
+python-rtmidi = "^1.5.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
