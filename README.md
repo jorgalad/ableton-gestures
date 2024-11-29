@@ -21,12 +21,8 @@ The project aims to create a gesture-based interface for controlling Ableton Liv
 ## Requirements
 
 - Python 3.x
+- Ableton Live 
 - Poetry (for managing dependencies)
-- OpenCV (`cv2`) for video capture
-- Mediapipe for gesture recognition
-- `rtmidi` for MIDI control
-- `pythonosc` for OSC communication
-- Ableton Live (for receiving OSC messages)
 
 ## Installation
 
@@ -73,3 +69,5 @@ This project demonstrates how to integrate gesture-based controls into a live mu
 - Daniel Jones ([ideoforms](https://github.com/ideoforms)) 
 - [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 
+## Support or Questions?
+- [Subject Sound](courses.subjectsound.com)
