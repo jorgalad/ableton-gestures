@@ -70,4 +70,4 @@ This project demonstrates how to integrate gesture-based controls into a live mu
 - [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 
 ## Support or Questions?
-- [Subject Sound](http://www.courses.subjectsound.com)
+- [Subject Sound](https://courses.subjectsound.com/)
