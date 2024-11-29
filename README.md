@@ -33,7 +33,7 @@ The project aims to create a gesture-based interface for controlling Ableton Liv
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/gesture-controlled-ableton.git
+git clone https://github.com/jorgalad/ableton-gestures.git
 cd gesture-controlled-ableton
 ```
 
@@ -70,6 +70,6 @@ This project demonstrates how to integrate gesture-based controls into a live mu
 
 
 ## Thanks
-Daniel Jones ([ideoforms](https://github.com/ideoforms) )
-
+- Daniel Jones ([ideoforms](https://github.com/ideoforms)) 
+- [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 
